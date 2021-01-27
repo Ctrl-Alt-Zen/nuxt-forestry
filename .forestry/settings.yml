@@ -14,9 +14,6 @@ sections:
   templates:
   - blog-post
 - type: document
-  path: content/data/authors.json
-  label: Author List
-- type: document
   path: content/data/info.json
   label: Info Page
 - type: heading
